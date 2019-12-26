@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09e8333e-e44b-442a-b6c1-a2440425f420" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/jdl_flutter_kit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/jdl_flutter_kit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/jdl_flutter_kit/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_26" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VQTocDQqVQr9Ojos0MSYCo2uM1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/widget" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/widget" />
+      <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$/example/lib" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09e8333e-e44b-442a-b6c1-a2440425f420" name="Default Changelist" comment="" />
+      <created>1577184494509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577184494509</updated>
+      <workItem from="1577184496622" duration="26096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577192612428">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state x="591" y="346" key="#com.intellij.fileTypes.FileTypeChooser/38.23.1642.1027@38.23.1642.1027" timestamp="1577192612428" />
+    <state x="808" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577188375365">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state x="808" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/38.23.1642.1027@38.23.1642.1027" timestamp="1577188375365" />
+    <state width="1600" height="304" key="GridCell.Tab.0.bottom" timestamp="1577257799493">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1600" height="304" key="GridCell.Tab.0.bottom/38.23.1642.1027@38.23.1642.1027" timestamp="1577257799493" />
+    <state width="1600" height="304" key="GridCell.Tab.0.center" timestamp="1577257799491">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1600" height="304" key="GridCell.Tab.0.center/38.23.1642.1027@38.23.1642.1027" timestamp="1577257799491" />
+    <state width="1600" height="304" key="GridCell.Tab.0.left" timestamp="1577257799490">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1600" height="304" key="GridCell.Tab.0.left/38.23.1642.1027@38.23.1642.1027" timestamp="1577257799490" />
+    <state width="1600" height="304" key="GridCell.Tab.0.right" timestamp="1577257799492">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1600" height="304" key="GridCell.Tab.0.right/38.23.1642.1027@38.23.1642.1027" timestamp="1577257799492" />
+    <state x="524" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1577260768549">
+      <screen x="38" y="23" width="1642" height="1027" />
+    </state>
+    <state x="524" y="250" width="670" height="676" key="search.everywhere.popup/38.23.1642.1027@38.23.1642.1027" timestamp="1577260768549" />
+  </component>
+</project>

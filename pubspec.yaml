@@ -1,0 +1,36 @@
+name: jdl_flutter_kit
+description: 适用于京东物流 flutter 项目的业务组件库，依赖了 stone_flutter_kit，提供了很多超级好用的 Widgets，具体使用方式及效果请查看 example 工程。
+version: 0.0.1
+author: 王志明 <wangzhiming26@jd.com>
+git: https://git.jd.com/wangzhiming26/idl_flutter_kit
+erp: wangzhiming26
+department: 零售研发组
+homepage: http://pub.jd.com
+publish_to: http://pub.jd.com
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  stone_flutter_kit:
+    hosted:
+      name: stone_flutter_kit
+      url: http://pub.jd.com
+      version: ^0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: com.jd.jdl_flutter_kit
+    pluginClass: JdlFlutterKitPlugin
+
+  assets:
+    - packages/jdl_flutter_kit/asset/images/img_no_data.png
+    - packages/jdl_flutter_kit/asset/images/img_no_list.png
+    - packages/jdl_flutter_kit/asset/images/img_no_network.png

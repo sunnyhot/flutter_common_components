@@ -1,0 +1,25 @@
+name: jdl_flutter_kit_example
+description: Demonstrates how to use the jdl_flutter_kit plugin.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  jdl_flutter_kit:
+    path: ../
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - res/shops.json
